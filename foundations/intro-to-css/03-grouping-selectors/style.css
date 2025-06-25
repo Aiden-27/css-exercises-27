@@ -1,0 +1,13 @@
+button {
+font-size: 28px;
+font-family: "Helvetica", 'Times New Roman', Times, sans-serif ;
+}
+
+.first-opt {
+    background-color: black;
+    color: white;
+}
+
+.second-opt {
+    background-color: yellow;
+}
